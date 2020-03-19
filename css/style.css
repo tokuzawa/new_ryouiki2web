@@ -171,7 +171,8 @@ header address .tel a {
 
 /* #main  */
 #main ul {list-style-type: square;} 
-#main ul.desc {list-style-type: square;} 
+#main ul {padding-left: 25px;}
+
 /*サービス紹介ページの各ブロック
 ---------------------------------------------------------------------------*/
 /*各ボックスの設定*/
