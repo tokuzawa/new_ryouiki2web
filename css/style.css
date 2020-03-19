@@ -170,6 +170,7 @@ header address .tel a {
 }
 
 /* #main  */
+/* メインコンテンツで列挙ができるようにした by S. Ohdachi */
 #main ul {list-style-type: square;} 
 #main ul {padding-left: 25px;}
 
