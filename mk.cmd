@@ -1,2 +1,3 @@
-% pandoc --template=template.html --metadata pagetitle="index.html" testmain.md -o testmain.html
+pandoc --template=template.html --metadata pagetitle="index.html" testmain.md -o index.html
 pandoc --template=template.html --metadata pagetitle="links.html" links.md -o links.html
+pandoc --template=template.html --metadata pagetitle="mailinglist.html" mailinglist.md -o mailinglist.html

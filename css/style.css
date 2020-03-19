@@ -17,7 +17,8 @@ body {
 	-webkit-text-size-adjust: none;
 }
 h1,h2,h3,h4,h5,p,ul,ol,li,dl,dt,dd,form,figure,form {margin: 0px;padding: 0px;font-size: 100%;}
-ul {list-style-type: none;}
+ul {list-style-type: none;} 
+/* ul {list-style-type: square;}  */
 ol {padding-left: 40px;padding-bottom: 15px;}
 img {border: none;max-width: 100%;height: auto;vertical-align: middle;}
 table {border-collapse:collapse;font-size: 100%;border-spacing: 0;}
@@ -168,6 +169,9 @@ header address .tel a {
 	margin-top: -5px;
 }
 
+/* #main  */
+#main ul {list-style-type: square;} 
+#main ul.desc {list-style-type: square;} 
 /*サービス紹介ページの各ブロック
 ---------------------------------------------------------------------------*/
 /*各ボックスの設定*/
@@ -188,7 +192,7 @@ header address .tel a {
 	text-decoration: none;
 	display: block;
 	overflow: hidden;
-}
+} 
 /*マウスオン時のボックス*/
 #main .list a:hover {
 	background: #fff;	/*背景色*/
@@ -610,7 +614,7 @@ h2 span.option2 {
 .look {background: #dcdcdc;}
 .mb15,.mb1em {margin-bottom: 15px;}
 .clear {clear: both;}
-ul.disc {padding: 0em 25px 1em;list-style: disc;}
+/* ul.disc {padding: 0em 25px 1em;list-style: disc;} */
 .color1 {color: #000;}
 .pr {font-size: 10px;}
 .wl {width: 96%;}
