@@ -24,6 +24,15 @@ img {border: none;max-width: 100%;height: auto;vertical-align: middle;}
 table {border-collapse:collapse;font-size: 100%;border-spacing: 0;}
 iframe {width: 100%;}
 
+blockquote {
+    position: relative;
+    padding: 10px 10px 10px 10px;
+    box-sizing: border-box;
+/*    color: #464646; */
+/*    background: #fff0f0; */
+    background: #f0f0e8;
+}
+
 /*リンク（全般）設定
 ---------------------------------------------------------------------------*/
 a {
