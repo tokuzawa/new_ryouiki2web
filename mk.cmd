@@ -7,3 +7,6 @@ pandoc --template=template.html --metadata pagetitle="keyword-e.html" keyword-e.
 pandoc --template=template.html --metadata pagetitle="topical_sesion.html" topical_session.md -o topical_session.html
 pandoc --template=template.html --metadata pagetitle="meetinginfo.html" meetinginfo.md -o meetinginfo.html
 pandoc --template=template.html --metadata pagetitle="index.html" main.md -o index.html
+pandoc --template=template.html --metadata pagetitle="symposium.html" symposium.md -o symposium.html
+pandoc --template=template.html --metadata pagetitle="r2meeting.html" r2meeting.md -o r2meeting.html
+pandoc --template=template.html --metadata pagetitle="boardmeeting.html" boardmeeting.md -o boardmeeting.html
