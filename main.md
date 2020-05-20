@@ -117,7 +117,7 @@ Plasma Conference 2017にて，4名の方が学生優秀発表賞を受賞され
 * Nishizawa, Takashi（University of Wisconsin-Madison）
 
 
-**おめでとうございました。**
+** おめでとうございました。**
 
 
 
