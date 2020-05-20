@@ -1,4 +1,10 @@
-## 日本物理学会若手奨励賞の募集 ![](image/new.gif) 
+## 日本物理学会若手奨励賞の規定・細則改訂 ![](http://www.r2.div.jps.or.jp/image/new.gif)
+* 物理学会　領域２の皆様
+
+領域2の若手奨励賞に関して、規定及び細則が改定されました。 [新しい規定](http://www.r2.div.jps.or.jp/pdf2/2020/kitei_wakatesyo2020.pdf) をご覧ください。 [自薦用の様式](http://www.r2.div.jps.or.jp/pdf2/2020/youshiki1.docx)、 [他薦用の様式](http://www.r2.div.jps.or.jp/pdf2/2020/youshiki2.docx) もダウンロード可能です。 募集の詳細につきましては5月末にお知らせいたします。 自薦、他薦に係わらず、多数の応募をお願い申し上げます。
+
+
+## 日本物理学会若手奨励賞の募集 
 
 * 物理学会　領域２の皆様   
    
@@ -86,7 +92,7 @@
 > （３）自薦または推薦で行う。   
 > （４）提出書類は履歴書、発表論文リスト、対象論文のコピー（3篇以内）、該当する日本物理学会における学会発表の講演概要と講演資料のコピー、および所定の用紙に記載した推薦書その他です。詳細は上記細則を見て下さい。自薦書および推薦書の所定の用紙は、上記細則の項目「７.その他」に記載された様式に従い、作成してください。 受賞者は第74回年次大会（2019年3月、九州大学伊都キャンパス）にて若手奨励賞受賞記念講演を行っていただきます。 これまでの受賞者及び募集から受賞記念講演までのスケジュールについては[物理学会Webページ](http://www.jps.or.jp/activities/awards/wakate.html)をご参照ください。   
 >   
-> 洲鎌英雄（領域２代表）、藤田隆明（領域２副代表） |
+> 洲鎌英雄（領域２代表）、藤田隆明（領域２副代表）
 
 ## 学生優秀発表賞　受賞者のお知らせ
 
@@ -292,7 +298,7 @@ Plasma Conference 2017にて，4名の方が学生優秀発表賞を受賞され
 
 #日本物理学会　領域2会員の皆様  
 
-PlasmaMLにも案内がありましたように[アジア太平洋物理学会](http://www.aapps.org/main/)に[プラズマ物理部門](http://aappsdpp.org/AAPPSDPPF/index.html)が設立されました。  
+PlasmaMLにも案内がありましたように[太平洋物理学会](http://www.aapps.org/main/)に[プラズマ物理部門](http://aappsdpp.org/AAPPSDPPF/index.html)が設立されました。  
 初代Chairには、菊池満　元領域２代表が選出されました。  
 以下の５分野で活動が開始されます。  
 * D-0 : Fundamental plasma physics : MHD, Turbulence, transport, Wave-Particle interaction,-- .  
