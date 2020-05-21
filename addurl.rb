@@ -3,6 +3,7 @@ Encoding.default_external = 'utf-8'
 fns = []
 outdir = 'output'
 urla = 'http://www.r2.div.jps.or.jp/'
+
 Dir.glob('*.md'){|fn|
     # print fn, "\n"
     fns.push(fn)
