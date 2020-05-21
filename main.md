@@ -301,11 +301,13 @@ Plasma Conference 2017にて，4名の方が学生優秀発表賞を受賞され
 PlasmaMLにも案内がありましたように[太平洋物理学会](http://www.aapps.org/main/)に[プラズマ物理部門](http://aappsdpp.org/AAPPSDPPF/index.html)が設立されました。  
 初代Chairには、菊池満　元領域２代表が選出されました。  
 以下の５分野で活動が開始されます。  
-* D-0 : Fundamental plasma physics : MHD, Turbulence, transport, Wave-Particle interaction,-- .  
-* D-1: Basic plasma physics : Diagnostics, complex plasma, non-neutral plasma, A&M in plasmas, --  
-* D-2 : Plasma Processing :  
-* D-3: Laser plasma (including laser wake field acceleration)  
-* D-4: Astro, Solar and Space plasmas  
+
+
+- D-0 : Fundamental plasma physics : MHD, Turbulence, transport, Wave-Particle interaction,-- .  
+- D-1: Basic plasma physics : Diagnostics, complex plasma, non-neutral plasma, A&M in plasmas, --  
+- D-2 : Plasma Processing :  
+- D-3: Laser plasma (including laser wake field acceleration)  
+- D-4: Astro, Solar and Space plasmas  
 
 現在、会員登録受付中です。  
 詳細、会員登録方法などは、[こちら](collaboration.html#AAPPS-DPP)をご覧ください。
