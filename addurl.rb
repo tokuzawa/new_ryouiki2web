@@ -16,6 +16,17 @@ fns.each{|fn|
     n += 1
 }
 =end
+str2 = ""
+File.open('template.html').each_line{|line|
+    if /href *= *\".*index.html\"/ =~ line    
+        url = $1
+        line = line.gsub!(/index/){|m| 'main'}
+    end 
+    str2 += line
+} 
+f = File.open('template2.html', 'w')
+f.puts(str2)
+f.close
 
 #str = "[aaa](bbb) [ccc](ddd)"
 #print str, "\n"
@@ -53,11 +64,11 @@ fns.each{|fn|
     f.puts(str2)
     f.close()
 
-    if otitle == "main.html"
-        otitle = "index.html"
-        ofn = outdir + otitle
-    end 
-    cmd = "pandoc --template=template.html --metadata pagetitle=\"#{otitle}\" temp.md -o #{ofn}"
+    #if otitle == "main.html"
+    #    otitle = "index.html"
+    #    ofn = outdir + otitle
+    #end 
+    cmd = "pandoc --template=template2.html --metadata pagetitle=\"#{otitle}\" temp.md -o #{ofn}"
     print cmd, "\n"
     system(cmd)
 }
