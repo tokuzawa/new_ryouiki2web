@@ -31,7 +31,7 @@ f.close
 #str = "[aaa](bbb) [ccc](ddd)"
 #print str, "\n"
 #print str.gsub(/\((.*?)\)/){|m| '(http'+$1+')'}
-
+#fns = ['main.md']
 fns.each{|fn|
     # print fn, "  "
     otitle = fn.gsub(/\.md/){|m| '.html'}
@@ -39,22 +39,23 @@ fns.each{|fn|
     # print ofn, "\n"
     str2 = ""
     File.open(fn).each_line{|line|
-        if /\[.*\]\((.*?)\)/ =~ line
+        if /\[.*?\]\((.*?)\)/ =~ line
             url = $1
             if /http.*/ !~ url && /.*\/.*/ =~ url && /href/!~ line && /src/ !~line
-                lines = line.gsub!(/\[(.*?)\]\((.*?)\)/){|m| '['+$1+'](' + urla+$2+')'}
+                line.gsub!(/\[(.*?)\]\((.*?)\)/){|m| '['+$1+'](' + urla+$2+')'}
+                
             end
         end
         if /src *= *\"(.*?)\"/ =~ line    
             url = $1
             if /http.*/ !~ url
-                line = line.gsub!(/src *= *\"(.*?)\"/){|m| 'src="' + urla+url+'"'}
+                line.gsub!(/src *= *\"(.*?)\"/){|m| 'src="' + urla+url+'"'}
             end
         end 
         if /href *= *\"(.*?)\"/ =~ line    
             url = $1
             if /http.*/ !~ url
-                line = line.gsub!(/href *= *\"(.*?)\"/){|m| 'href="' + url+url+'"'}
+                line.gsub!(/href *= *\"(.*?)\"/){|m| 'href="' + url+url+'"'}
             end 
         end 
         str2 += line

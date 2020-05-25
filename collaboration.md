@@ -1,7 +1,7 @@
 ### 学会連携
 
 - [プラズマ宇宙物理３学会合同セッション](#プラズマ宇宙物理３学会合同セッション2018)
-- [PLASMA CONFERENCE](#plasma-conference-2017)
+- [PLASMA CONFERENCE](#plasma-conference)
 - [アジア太平洋物理学会プラズマ物理部門](#アジア太平洋物理学会プラズマ物理部門の設立)
 
 
