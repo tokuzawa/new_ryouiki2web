@@ -41,20 +41,20 @@ fns.each{|fn|
     File.open(fn).each_line{|line|
         if /\[.*\]\((.*?)\)/ =~ line
             url = $1
-            if /http.*/ !~ url && /.*\/.*/ =~ url
-                line = line.gsub!(/\((.*?)\)/){|m| '(' + urla+$1+')'}
+            if /http.*/ !~ url && /.*\/.*/ =~ url && /href/!~ line && /src/ !~line
+                lines = line.gsub!(/\[(.*?)\]\((.*?)\)/){|m| '['+$1+'](' + urla+$2+')'}
             end
         end
         if /src *= *\"(.*?)\"/ =~ line    
             url = $1
             if /http.*/ !~ url
-                line = line.gsub!(/src *= *\"(.*?)\"/){|m| 'src="' + urla+$1+'"'}
+                line = line.gsub!(/src *= *\"(.*?)\"/){|m| 'src="' + urla+url+'"'}
             end
         end 
         if /href *= *\"(.*?)\"/ =~ line    
             url = $1
             if /http.*/ !~ url
-                line = line.gsub!(/href *= *\"(.*?)\"/){|m| 'href="' + url+$1+'"'}
+                line = line.gsub!(/href *= *\"(.*?)\"/){|m| 'href="' + url+url+'"'}
             end 
         end 
         str2 += line
