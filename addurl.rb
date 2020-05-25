@@ -41,7 +41,7 @@ fns.each{|fn|
     File.open(fn).each_line{|line|
         if /\[.*\]\((.*?)\)/ =~ line
             url = $1
-            if /http.*/ !~ url
+            if /http.*/ !~ url && /.*\/.*/ =~ url
                 line = line.gsub!(/\((.*?)\)/){|m| '(' + urla+$1+')'}
             end
         end

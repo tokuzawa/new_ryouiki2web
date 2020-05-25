@@ -97,7 +97,6 @@ Y. Nariyuki, T. Hada, and K. Tsubouchi, "Parametric instabilities of circularly 
 2018年3月の年会で表彰式及び受賞記念講演を行いました。   
 ![](pdf2/2019/201903-iwata.jpg) ![](pdf2/2019/201903_Nariyuki_photo_P1050033.jpg)
     
-<img border="0" alt="" src="image/2017/201703_wakate.jpg" width="652" height="489" /></p> 
 
 # 第12回物理学会若手奨励賞受賞者   
 # 前山伸也氏（名古屋大学理学研究科）   
@@ -139,7 +138,7 @@ Chanho Moon, T. Kaneko, K. Itoh, K. Ida, T. Kobayashi, S. Inagaki, S.-I. Itoh an
 
 ![](pdf2/2018/maeyama.jpg) ![](pdf2/2018/Wakate.jpg) ![](pdf2/2018/Wakate_Moon.jpg)
       
-<img border="0" alt="" src="image/2017/201703_wakate.jpg" width="652" height="489" /></p> 
+
 ### 第11回（2017年）   
 # 小林　達哉　氏（核融合科学研究所・高温プラズマ物理研究系）   
 
@@ -364,7 +363,7 @@ ion-magnetized conditions. J. Phys. Soc. Japan, Vol. 70, 131 (2001).」
       cylindrical magnetized plasma,　Plasma Fusion Res. 」
 
 
-![](image/Hirota2.jpg) ![](image/yamadas.JPG)
+![](image/Hirota2.jpg) ![](image/yamadas.jpg)
 
 ### 第4回（2010年） 　　　 
 
