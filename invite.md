@@ -48,24 +48,24 @@
 ### 2016年年次大会（東北学院大学）（2016年3月）
 
 - <font color="#0000cc">招待講演</font>  
-** [ジャイロ運動論的場の理論の進展](pdf2/2016/201603_Sugama.pdf)（核融合研　洲鎌英雄）**  
+**[ジャイロ運動論的場の理論の進展](pdf2/2016/201603_Sugama.pdf)（核融合研　洲鎌英雄）**  
 
 ### 2015年秋季大会（関西大学）（2015年9月）
 
 - <font color="#0000cc">招待講演</font>  
-** [高温非平衡プラズマにおける輸送現象](pdf2/2015/201509_inagaki2.pdf)（九州大学応力研　稲垣滋）**  
+**[高温非平衡プラズマにおける輸送現象](pdf2/2015/201509_inagaki2.pdf)（九州大学応力研　稲垣滋）**  
 
 ### 2015年年次大会（早稲田大学）（2015年3月）
 
 - <font color="#0000cc">企画講演</font>  
-** Stiffness measurements from perturbative heat transport experiments on a Quasi-Helically Symmetric Stellarator (HSX Laboratory, University of Wisconsin Gavin WEIR)**
+ **Stiffness measurements from perturbative heat transport experiments on a Quasi-Helically Symmetric Stellarator (HSX Laboratory, University of Wisconsin Gavin WEIR)**
 - <font color="#0000cc">招待講演</font>  
-**パワーレーザーと高エネルギー密度物質科学 （大阪大学　尾崎典雅）  
- （ビーム物理領域と合同）**  
+ **パワーレーザーと高エネルギー密度物質科学 （大阪大学　尾崎典雅）  （ビーム物理領域と合同）**  
 
 ### 2014年年次大会（東海大学）（2014年3月）
 
-** なし**
+**なし**
+
 ### 2013年秋季大会（徳島大学）（2013年9月）
 
 - <font color="#ff0000">チュートリアル講演</font>  
