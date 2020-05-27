@@ -30,6 +30,32 @@
 
 ## 領域2　これまでの受賞者
 
+### 第14回物理学会若手奨励賞受賞者
+
+# 仲田 資季 氏（核融合科学研究所）
+# 研究課題　「磁場閉じ込めプラズマの乱流・輸送および同位体質量効果に関する研究」
+授賞対象論文：
+Motoki NAKATA, Tomo-Hiko WATANABE and Hideo SUGAMA, ”Nonlinear entropy transfer via zonal flows in gyrokinetic plasma turbulence”, Physics of Plasmas, vol. 19, 022303 (2012).
+
+
+Motoki NAKATA, Masanori NUNAMI, Hideo SUGAMA and Tomo-Hiko WATANABE, “Isotope effects on trapped-electron-mode driven turbulence and zonal flows in helical and tokamak plasmas”, Physical Review Letters, vol. 118, 165002 (2017).
+
+
+Motoki NAKATA, Mitsuru HONDA, Maiko YOSHIDA, Hajime URANO, Masanori NUNAMI, Shinya MAEYAMA, Tomo-Hiko WATANABE and Hideo SUGAMA, “Validation studies of gyrokinetic ITG and TEM turbulence simulations in a JT-60U tokamak using multiple flux matching”, Nuclear Fusion, vol. 56, 086010 (2016).
+
+
+# 西澤 敬之 氏（マックスプランク・プラズマ物理研究所）
+# 研究課題　「逆磁場ピンチプラズマにおけるドリフト波乱流に関する研究」
+授賞対象論文：
+T. Nishizawa, M. D. Nornberg, J. Boguski, D. J. Den Hartog, J. S. Sarff, Z. R. Williams, Z. A. Xing, and D. Craing. “Measurements of impurity transport due to drift-wave turbulence in a toroidal plasma”, Physical Review Letters, vol. 121, 165002 (2018).
+
+
+T. Nishizawa, M. D. Nornberg, D. J. Den Hartog, and J. S. Sarff, “Linearized spectrum correlation analysis for line emission measurements”, Review of Scientific Instruments, vol. 88, 083513 (2017).  
+
+
+T. Nishizawa, A. F. Almagri, J. K. Anderson, W. Goodman, M. J. Pueschel, M. D. Nornberg, S. Ohshima, J. S. Sarff, P. W. Terry, and Z. R. Williams. “Direct measurement of a toroidally directed zonal flow in a toroidal plasma”, Physical Review Letters, vol. 122, 105001 (2019).
+
+
 ### 第13回物理学会若手奨励賞受賞者   
 
 # 岩田 夏弥 氏 （大阪大学レーザー科学研究所）   
@@ -69,7 +95,7 @@ Y. Nariyuki, T. Hada, and K. Tsubouchi, "Parametric instabilities of circularly 
 ![](pdf2/2019/201903-iwata.jpg) ![](pdf2/2019/201903_Nariyuki_photo_P1050033.jpg)
     
 
-# 第12回物理学会若手奨励賞受賞者   
+### 第12回物理学会若手奨励賞受賞者   
 # 前山伸也氏（名古屋大学理学研究科）   
 # 研究課題：電子・イオンスケール乱流間のマルチスケール相互作用に関する研究   
 
