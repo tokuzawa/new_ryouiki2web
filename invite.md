@@ -1,6 +1,6 @@
 ## 領域2企画・招待講演
 
-### 2019年年次大会（名古屋大学） （2020年3月）
+### 2020年年次大会（名古屋大学） （2020年3月）
 
 - <font color="#0000cc">招待講演</font>  
 **Laser-ion acceleration for Fast Ignition research and applications (ILE, Osaka university Morace Alessio)**
