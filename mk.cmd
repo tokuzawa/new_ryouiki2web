@@ -12,4 +12,5 @@ pandoc --template=template.html --metadata pagetitle="boardmeeting.html" boardme
 pandoc --template=template.html --metadata pagetitle="collaboration.html" collaboration.md -o collaboration.html
 pandoc --template=template.html --metadata pagetitle="invite.html" invite.md -o invite.html
 pandoc --template=template.html --metadata pagetitle="RonbunWakate.html" RonbunWakate.md -o RonbunWakate.html
+pandoc --template=template.html --metadata pagetitle="Ronbun.html" Ronbun.md -o Ronbun.html
 pandoc --template=template.html --metadata pagetitle="gakusei_presen.html" gakusei_presen.md -o gakusei_presen.html

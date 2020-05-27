@@ -1,60 +1,31 @@
-## 日本物理学会論文賞
-
-
-<font size="3"><a href="http://www.jps.or.jp/activities/awards/ronbunsyo/ronbun17-2012.html">第17回（2012年）</a></font>
-
-### [第17回（2012年）](http://www.jps.or.jp/activities/awards/ronbunsyo/ronbun17-2012.html)
-<font size="4"><strong>Causal Relationship between Zonal Flow and Turbulence in a Toroidal Plasma,</strong></font>
-
-**Akihide Fujisawa, Akihiro Shimizu, Haruhisa Nakano, Shinsuke Ohshima, Kimitaka Itoh, Yoshihiko Nagashima, Sanae-I. Itoh, Harukazu Iguchi, Yasuo Yoshimura, Takashi Minami, Kenichi Nagaoka, Chihiro Takahashi, Mamoru Kojima, Shin Nishimura, Mitsutaka Isobe, Chihiro Suzuki, Tsuyoshi Akiyama, Takeshi Ido, Keisuke Matsuoka, Shoichi Okamura, Patrick H. Diamond,**
-
-Journal of the Physical Society of Japan (2007) vol.**76**  033501-1.
-      <img border="0" alt="" src="image/ronbunsyo201203.jpg" width="639" height="480"></font>
-
-### [第10回（2005年）](http://www.jps.or.jp/activities/awards/ronbunsyo/ronbun10-2005.html)
-
-**Statistical Theory of Subcritically-Excited Strong Turbulencein Inhomogeneous Plasmas IV**
-
-**Sanae-I. ITOH、Kimitaka ITOH**
-
-Journal of the Physical Society of Japan (2000) vol.**69** 2427.
-
-
- 
-
 ## 日本物理学会若手奨励賞
 
-#物理学会　領域２の皆様
 
-物理学会誌６月号に案内が出ていますように、2018年の第12回日本物理学会若手奨励賞の募集が始まっています。
-本物理学会若手奨励賞は、優秀な若手研究者の研究を奨励する目的で、平成１８年より始まったものです。
-現在、領域２で２名の枠があります。
-（受賞人数枠は学会の領域ごとの総講演数実績（直近の3年で算出）に応じて毎年修正があります。）
+日本物理学会　領域２の皆様
+
+2021年の第15回日本物理学会若手奨励賞の募集が始まっています（日本物理学会誌６月号に案内が出ています）。本物理学会若手奨励賞は、優秀な若手研究者の研究を奨励する目的で、2006年より始まったものです。現在、領域２で２名の枠があります。（受賞人数枠は学会の領域ごとの総講演数実績（直近の3年で算出）に応じて毎年修正があります。）
 
 自薦、他薦に係わらず、多数の応募をお願い申し上げます。
 
 
-＊領域２の締め切りは平成29年7月21日〔金〕です。
+# 領域２の締め切りは2020年7月22日（水）です。
 
 
-以下の必要書類を電子媒体にて、件名『領域2若手賞』として、以下のアドレスにお送り下さい。
-送付先：ohsawa.atsuko＠nifs.ac.jp（ ＠が全角になっています。半角に変えて送信してください。）
+以下の必要書類を電子媒体にて、件名「領域2若手賞」として、以下のアドレスにお送り下さい。送付先：inagaki◎riam.kyushu-u.ac.jp（◎を@に変えて送信してください。）
 
-この賞に関する規定及び細則は、[以下](http://www.r2.div.jps.or.jp/pdf2/2014/kitei_wakatesyo.pdf)に掲載されています。
+この賞に関する領域２の規定及び細則は、[リンク先](pdf2/2020/kitei_wakatesyo2020.pdf)に掲載されています。概要は以下の通りです。
 
+> （１）公表された研究業績で、その研究内容（一部でも可）が物理学会において登壇者として発表されていること。   
+> （２）応募資格は物理学会会員であり、第15 回分では2021年4月1日において、39歳以下であること。 ただし、出産、育児休暇により研究を中断するなどの事情がある場合は、年齢制限を緩和することができる。   
+> （３）自薦または推薦で行う。   
+> （４）提出書類は履歴書、発表論文リスト、対象論文のコピー（3篇以内）、該当する日本物理学会における学会発表の講演概要と講演資料のコピー、推薦書（または自薦書）、その他に必要と思われる書類です。詳細は上記細則を見て下さい。自薦書および推薦書の様式は、以下からダウンロードしてください。   
+> [様式１](http://www.r2.div.jps.or.jp/pdf2/2020/youshiki1.docx)   
+> [様式２](http://www.r2.div.jps.or.jp/pdf2/2020/youshiki2.docx)   
 
-概要は以下の通りです。
+受賞者は第76回年次大会（2021年3月、東京大学駒場キャンパス）にて若手奨励賞受賞記念講演を行っていただきます。
+これまでの受賞者及び募集から受賞記念講演までのスケジュールについては [物理学会Webページ](https://www.jps.or.jp/activities/awards/wakate.php) をご参照ください。
 
-- （１）公表された研究業績で、その研究内容（一部でも可）が物理学会において登壇者として発表されていること。
-- （２）応募資格は物理学会会員であり、第12 回分では2018 年4月1日において、39歳以下であること。 ただし、出産、育児休暇により研究を中断するなどの事情がある場合は、年齢制限を緩和することができる。
-- （３）自薦または推薦で行う。
-- （４）提出書類は履歴書、発表論文リスト、対象論文のコピー（3篇以内）、該当する日本物理学会における学会発表の講演概要と講演資料のコピー、および所定の用紙に記載した推薦書その他ですが、詳細は上記細則を見て下さい。
-
-
-受賞者は第73回年次大会(2018年3月、東京理科大学)にて若手奨励賞受賞記念講演を行っていただきます。
-これまでの受賞者は下記の[受賞者リスト](http://www.jps.or.jp/activities/awards/wakate.html)あるいは物理学会Webページをご参照ください。
-
-# 政宗貞男（領域２代表）、洲鎌英雄（領域２副代表）
+# 金子俊郎（領域２代表）、稲垣滋（領域２副代表）
 
 
 ## 領域2　これまでの受賞者
