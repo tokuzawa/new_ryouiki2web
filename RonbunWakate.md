@@ -91,7 +91,7 @@ Y. Nariyuki, T. Hada, and K. Tsubouchi, "Parametric instabilities of circularly 
 
 [受賞記念講演資料](pdf2/2019/201903_Nariyuki_talk.pdf)  
   
-2018年3月の年会で表彰式及び受賞記念講演を行いました。   
+2019年3月の年会で表彰式及び受賞記念講演を行いました。   
 ![](pdf2/2019/201903-iwata.jpg) ![](pdf2/2019/201903_Nariyuki_photo_P1050033.jpg)
     
 
