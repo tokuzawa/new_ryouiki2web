@@ -44,6 +44,8 @@ Motoki NAKATA, Masanori NUNAMI, Hideo SUGAMA and Tomo-Hiko WATANABE, “Isotope 
 Motoki NAKATA, Mitsuru HONDA, Maiko YOSHIDA, Hajime URANO, Masanori NUNAMI, Shinya MAEYAMA, Tomo-Hiko WATANABE and Hideo SUGAMA, “Validation studies of gyrokinetic ITG and TEM turbulence simulations in a JT-60U tokamak using multiple flux matching”, Nuclear Fusion, vol. 56, 086010 (2016).
 
 
+[受賞記念講演資料](pdf2/2020/202003-nakata-talk.pdf)
+
 # 西澤 敬之 氏（マックスプランク・プラズマ物理研究所）
 # 研究課題　「逆磁場ピンチプラズマにおけるドリフト波乱流に関する研究」
 授賞対象論文：
@@ -54,6 +56,12 @@ T. Nishizawa, M. D. Nornberg, D. J. Den Hartog, and J. S. Sarff, “Linearized s
 
 
 T. Nishizawa, A. F. Almagri, J. K. Anderson, W. Goodman, M. J. Pueschel, M. D. Nornberg, S. Ohshima, J. S. Sarff, P. W. Terry, and Z. R. Williams. “Direct measurement of a toroidally directed zonal flow in a toroidal plasma”, Physical Review Letters, vol. 122, 105001 (2019).
+
+
+[受賞記念講演資料](pdf2/2020/202003-nishizawa-talk.pdf)
+
+2020年3月の第75回年次大会は現地開催中止となったため、表彰式および現地での受賞記念講演は行われませんでした。   
+![](pdf2/2020/202003-nakata.jpg) ![](pdf2/2020/202003-nishizawa.jpg)
 
 
 ### 第13回物理学会若手奨励賞受賞者   
