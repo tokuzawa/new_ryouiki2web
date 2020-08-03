@@ -61,7 +61,7 @@ T. Nishizawa, A. F. Almagri, J. K. Anderson, W. Goodman, M. J. Pueschel, M. D. N
 [受賞記念講演資料](pdf2/2020/202003-nishizawa-talk.pdf)
 
 2020年3月の第75回年次大会は現地開催中止となったため、表彰式および現地での受賞記念講演は行われませんでした。   
-![](pdf2/2020/202003-nakata.jpg) ![](pdf2/2020/202003-nishizawa.jpg)
+![](pdf2/2020/202003-nakata.png) ![](pdf2/2020/202003-nishizawa.jpeg)
 
 
 ### 第13回物理学会若手奨励賞受賞者   
