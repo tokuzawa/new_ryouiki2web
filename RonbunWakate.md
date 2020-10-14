@@ -34,7 +34,7 @@
 
 # 佐藤 直木 氏（東京大学大学院 新領域創成科学研究科）
 # 研究課題「トポロジー束縛を持つ統計力学：位相空間の葉層化と自己組織化現象の解明」
-受賞対象論文：
+受賞対象論文：   
 N. Sato and Z. Yoshida, “Diffusion with Finite Helicity Field-Tensor:A Mechanism of Generating Heterogeneity”, Physical Review E 97, 022145 (2018).
 
 
@@ -47,7 +47,7 @@ N. Sato, "Dissipative brackets for the Fokker-Planck equation in Hamiltonian sys
 
 # 西村 征也 氏（法政大学理工学部）
 # 研究課題「磁気流体不安定性に対する運動論的効果に関する理論的研究」
-受賞対象論文：
+受賞対象論文：   
 S. Nishimura, S. Toda, M. Yagi, and Y. Narushima, “Nonlinear stability of magnetic islands in a rotating helical plasma”, Physics of Plasmas 19, 122510 (2012).
 
 
