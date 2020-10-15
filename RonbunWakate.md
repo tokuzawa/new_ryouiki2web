@@ -25,7 +25,7 @@
 受賞者は第76回年次大会（2021年3月、東京大学駒場キャンパス）にて若手奨励賞受賞記念講演を行っていただきます。
 これまでの受賞者及び募集から受賞記念講演までのスケジュールについては [物理学会Webページ](https://www.jps.or.jp/activities/awards/wakate.php) をご参照ください。
 
-# 金子俊郎（領域２代表）、稲垣滋（領域２副代表） 
+# 金子俊郎（領域２代表）、稲垣滋（領域２副代表）  
 
 
 ## 領域2　これまでの受賞者
@@ -61,7 +61,7 @@ S. Nishimura, “Nonlinear simulation of feedback instability using gyrofluid  m
 
 # 仲田 資季 氏（核融合科学研究所）
 # 研究課題　「磁場閉じ込めプラズマの乱流・輸送および同位体質量効果に関する研究」
-授賞対象論文：
+受賞対象論文：
 Motoki NAKATA, Tomo-Hiko WATANABE and Hideo SUGAMA, ”Nonlinear entropy transfer via zonal flows in gyrokinetic plasma turbulence”, Physics of Plasmas, vol. 19, 022303 (2012).
 
 
@@ -75,7 +75,7 @@ Motoki NAKATA, Mitsuru HONDA, Maiko YOSHIDA, Hajime URANO, Masanori NUNAMI, Shin
 
 # 西澤 敬之 氏（マックスプランク・プラズマ物理研究所）
 # 研究課題　「逆磁場ピンチプラズマにおけるドリフト波乱流に関する研究」
-授賞対象論文：
+受賞対象論文：
 T. Nishizawa, M. D. Nornberg, J. Boguski, D. J. Den Hartog, J. S. Sarff, Z. R. Williams, Z. A. Xing, and D. Craing. “Measurements of impurity transport due to drift-wave turbulence in a toroidal plasma”, Physical Review Letters, vol. 121, 165002 (2018).
 
 
@@ -96,7 +96,7 @@ T. Nishizawa, A. F. Almagri, J. K. Anderson, W. Goodman, M. J. Pueschel, M. D. N
 # 岩田 夏弥 氏 （大阪大学レーザー科学研究所）   
 
 # 研究課題　「ピコ秒相対論的レーザーによる非平衡プラズマの理論研究」   
-授賞対象論文：   
+受賞対象論文：   
 Natsumi Iwata, Sadaoki Kojima, Yasuhiko Sentoku, Masayasu Hata and Kunioki Mima, "Plasma density limits for hole boring by intense laser pulses", Nature Communications 9, 623 (2018).   
 
 
@@ -112,7 +112,7 @@ Natsumi Iwata, Sadaoki Kojima, Yasuhiko Sentoku, Masayasu Hata and Kunioki Mima,
 # 研究課題　「非線形磁気流体波の変調不安定性に関する理論的研究」   
 
 
-授賞対象論文：   
+受賞対象論文：   
 
 
 Y. Nariyuki, "On nonlinear evolution of low-frequency Alfv?n waves in weakly-expanding solar wind plasmas"，Physics of Plasmas 22, 022309 (2015).   
@@ -134,7 +134,7 @@ Y. Nariyuki, T. Hada, and K. Tsubouchi, "Parametric instabilities of circularly 
 # 前山伸也氏（名古屋大学理学研究科）   
 # 研究課題：電子・イオンスケール乱流間のマルチスケール相互作用に関する研究   
 
-授賞対象論文：   
+受賞対象論文：   
 
 
 S. Maeyama, T.-H. Watanabe, Y. Idomura, M. Nakata, M. Nunami, and A. Ishizawa, “Improved strong scaling of a spectral/finite difference gyrokinetic code for multi-scale plasma turbulence”, Parallel Computing 49, 1 (2015).   
@@ -153,7 +153,7 @@ S. Maeyama, T.-H. Watanabe, Y. Idomura, M. Nakata, A. Ishizawa, and M. Nunami, �
 
 # 研究課題：磁化プラズマ中電子温度勾配不安定性の研究   
 
-授賞対象論文：   
+受賞対象論文：   
 
 Chanho Moon, T. Kaneko and R. Hatakeyama, “Dynamics of nonlinear coupling between electron temperature gradient mode and drift wave mode in linear magnetized plasmas”, Physical Review Letters 111, 115001 (2013)   
 
