@@ -25,7 +25,7 @@
 これまでの受賞者及び募集から受賞記念講演までのスケジュールについては [物理学会Webページ](https://www.jps.or.jp/activities/awards/wakate.php) をご参照ください。
 
 # 金子俊郎（領域２代表）、稲垣滋（領域２副代表）   
-
+<br>
 
 ## 第15回物理学会若手奨励賞　受賞者のお知らせ![](http://www.r2.div.jps.or.jp/image/new.gif)
 
