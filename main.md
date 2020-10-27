@@ -2,7 +2,7 @@
 
 # 日本物理学会2020年秋季大会にて，6名の方が学生優秀発表賞を受賞されました（詳しくは、<a href="gakusei_presen.html">こちら</a>）。
 
-* Adulsiriswad Panith (Grad. Sch. of Energy Sci.，Kyoto Univ.)  
+* Adulsiriswad Panith 氏 (Grad. Sch. of Energy Sci.，Kyoto Univ.)  
 * 浅井　孝文 氏 （神戸大院海事）  
 * 東　直樹 氏 （阪大院理）  
 * 的池　遼太 氏 （京大エネ科）  
