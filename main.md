@@ -1,3 +1,18 @@
+## 学生優秀発表賞　受賞者のお知らせ![](http://www.r2.div.jps.or.jp/image/new.gif)
+
+# 日本物理学会2020年秋季大会にて，6名の方が学生優秀発表賞を受賞されました（詳しくは、<a href="gakusei_presen.html">こちら</a>）。
+
+* Adulsiriswad Panith (Grad. Sch. of Energy Sci.，Kyoto Univ.)  
+* 浅井　孝文 （神戸大院海事）  
+* 東　直樹 （阪大院理）  
+* 的池　遼太 （京大エネ科）  
+* 森　隆人 （阪大レーザー研）  
+* 横山　達也 （東大新領域）  
+
+
+**おめでとうございました。**
+
+
 ## 第15回日本物理学会若手奨励賞　受賞者のお知らせ![](http://www.r2.div.jps.or.jp/image/new.gif)
 
 ２名が第15回日本物理学会若手奨励賞を受賞
