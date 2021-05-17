@@ -47,7 +47,7 @@
 　　　　　　　　　　　　　　　　　　　　　　　　　　　日本物理学会領域２代表
   
   
-[日本物理学会領域2学生優秀発表賞授賞規定](pdf2/gakuseishou/jushou_kitei.pdf)  
+[日本物理学会領域2学生優秀発表賞授賞規定(2021年5月15日改訂)](pdf2/gakuseishou/jushou_kitei_kai.pdf)  
 [日本物理学会学生優秀発表賞実施要項](pdf2/gakuseishou/jisshi_youkou.pdf)  
 
 
