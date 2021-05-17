@@ -1,6 +1,8 @@
 ## 役員会情報
 
-- 第23回領域2役員会@TV会議（2020.3.17）　議事録 [PDF](pdf2/2020/20200317_yakuinkai_gijiroku.pdf) 資料 [PDF](pdf2/2020/20200317_yakuinkai_shiryou.pdf)
+-  第25回領域2役員会@オンライン（2021.3.13）　議事録 [PDF](pdf2/2021/20210313_yakuinkai_gijiroku.pdf) 資料 [PDF](pdf2/2021/20210313_yakuinkai_shiryou.pdf)
+-  第24回領域2役員会@オンライン（2020.9.8）　議事録 [PDF](pdf2/2020/20200908_yakuinkai_gijiroku.pdf) 資料 [PDF](pdf2/2020/20200908_yakuinkai_shiryou.pdf)
+-  第23回領域2役員会@TV会議（2020.3.17）　議事録 [PDF](pdf2/2020/20200317_yakuinkai_gijiroku.pdf) 資料 [PDF](pdf2/2020/20200317_yakuinkai_shiryou.pdf)
 -  第22回領域2役員会＠岐阜大学（2019.9.10）　議事録  ([PDF](pdf2/2019/Yakuinkai_2019_09_10_gijiroku.pdf))
 -  第21回領域2役員会＠九州大学（2019.3.14）　議事録  ([PDF](pdf2/2019/20190314yakuinkai_gijiroku.pdf))資料（[PDF](pdf2/2019/Yakuinkai_2019_03_14.pdf)）
 -  第20回領域2役員会＠同志社大学（2018.3.22）　議事録  ([PDF](pdf2/2018/20180909_yakuinkai_gijiroku.pdf))資料（[PDF](pdf2/2018/20190910_yakuinkai_shiryou.pdf)）

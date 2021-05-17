@@ -1,5 +1,9 @@
 ## 領域2運営会議
 
+- 2021年年次大会（オンライン) 領域2運営会議　 （2021.03.13）  
+　 　資料 1 （金子先生）（[PDF](pdf2/2021/20210313_uneikaigi_shiryou.pdf)） 　議事録 （[PDF](pdf2/2021/20210313_uneikaigi_gijiroku.pdf)）
+- 2020年秋季大会（オンライン) 領域2運営会議　 （2020.09.09）  
+　 　資料 1 （金子先生）（[PDF](pdf2/2020/20200909_uneikaigi_shiryou.pdf)） 　議事録 （[PDF](pdf2/2020/20200909_uneikaigi_gijiroku.pdf)）
 - 2019年秋季大会（岐阜大) 領域2運営会議　 （2019.09.11）  
 　 　資料 1 （藤田先生）（[PDF](pdf2/2019/Uneikaigi_2019_09_11_shiryou.pdf)） 　議事録 （[PDF](pdf2/2019/Uneikaigi_2019_09_11_gijiroku.pdf)）
 - 2019年年次大会（九州大) 領域2運営会議　 （2019.03.15）  
