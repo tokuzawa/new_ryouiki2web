@@ -34,7 +34,7 @@
 
 # 川面　洋平 氏（東北大学学際科学フロンティア研究所）
 # 研究課題「天体プラズマ乱流中のイオンと電子の加熱配分に関する研究」
-受賞対象論文： 
+受賞対象論文：   
 Y. Kawazura, M. Barnes and A. A. Schekochihin, “Thermal disequilibration of ions and electrons in collisionless plasma turbulence,” Proc. Natl. Acad. Sci. USA 116, 771 (2019).
 
 
@@ -46,7 +46,7 @@ Y. Kawazura, M. Barnes and A. A. Schekochihin, “Thermal disequilibration of io
 
 # 藤井　恵介 氏（京都大学工学研究科）
 # 研究課題「多電子原子や重元素核からの発光スペクトルに対する統計的モデリング」
-受賞対象論文： 
+受賞対象論文：   
 K. Fujii and J. C. Berengut, "Power-Law Intensity Distribution of γ -Decay Cascades: Nuclear Structure as a Scale-Free Random Network," Physical Review Letters 126, 102502 (2021).
 
 
