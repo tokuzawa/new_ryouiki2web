@@ -38,10 +38,10 @@
 Y. Kawazura, M. Barnes and A. A. Schekochihin, “Thermal disequilibration of ions and electrons in collisionless plasma turbulence,” Proc. Natl. Acad. Sci. USA 116, 771 (2019).
 
 
-・Y. Kawazura, A. A. Schekochihin, M. A. Barnes, J. M. TenBarge, Y. Tong, K. G. Klein, and W. Dorland, “Ion versus electron heating in compressively driven gyrokinetic turbulence,” Phys. Rev. X 10, 041050 (2020).
+Y. Kawazura, A. A. Schekochihin, M. A. Barnes, J. M. TenBarge, Y. Tong, K. G. Klein, and W. Dorland, “Ion versus electron heating in compressively driven gyrokinetic turbulence,” Phys. Rev. X 10, 041050 (2020).
 
 
-・Y. Kawazura and M. Barnes, “A Hybrid Gyrokinetic Ion and Isothermal Electron Fluid Code for Astrophysical Plasma,” J. Comp. Phys. 360, 57  (2018).
+Y. Kawazura and M. Barnes, “A Hybrid Gyrokinetic Ion and Isothermal Electron Fluid Code for Astrophysical Plasma,” J. Comp. Phys. 360, 57  (2018).
 
 
 # 藤井　恵介 氏（京都大学工学研究科）
