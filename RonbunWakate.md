@@ -30,6 +30,32 @@
 
 ## 領域2　これまでの受賞者
 
+### 第16回日本物理学会若手奨励賞受賞者
+
+# 川面　洋平 氏（東北大学学際科学フロンティア研究所）
+# 研究課題「天体プラズマ乱流中のイオンと電子の加熱配分に関する研究」
+受賞対象論文： 
+Y. Kawazura, M. Barnes and A. A. Schekochihin, “Thermal disequilibration of ions and electrons in collisionless plasma turbulence,” Proc. Natl. Acad. Sci. USA 116, 771 (2019).
+
+
+・Y. Kawazura, A. A. Schekochihin, M. A. Barnes, J. M. TenBarge, Y. Tong, K. G. Klein, and W. Dorland, “Ion versus electron heating in compressively driven gyrokinetic turbulence,” Phys. Rev. X 10, 041050 (2020).
+
+
+・Y. Kawazura and M. Barnes, “A Hybrid Gyrokinetic Ion and Isothermal Electron Fluid Code for Astrophysical Plasma,” J. Comp. Phys. 360, 57  (2018).
+
+
+# 藤井　恵介 氏（京都大学工学研究科）
+# 研究課題「多電子原子や重元素核からの発光スペクトルに対する統計的モデリング」
+受賞対象論文： 
+K. Fujii and J. C. Berengut, "Power-Law Intensity Distribution of γ -Decay Cascades: Nuclear Structure as a Scale-Free Random Network," Physical Review Letters 126, 102502 (2021).
+
+
+K. Fujii and J. C. Berengut, "Simple Explanation for the Observed Power Law Distribution of Line Intensity in Complex Many-Electron Atoms," Physical Review Letters 124, 185002 (2020).
+
+
+A. Nishio, J. C. Berengut, M. Hasuo, and K. Fujii, "Population kinetics of many-electron atoms in ionizing plasmas studied using a continuous collisional radiative model," Physical Review E 102, 053211 (2020).
+
+
 ### 第15回日本物理学会若手奨励賞受賞者
 
 # 佐藤 直木 氏（東京大学大学院 新領域創成科学研究科）
