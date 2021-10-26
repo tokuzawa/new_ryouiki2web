@@ -1,3 +1,17 @@
+## 学生優秀発表賞　受賞者のお知らせ ![](http://www.r2.div.jps.or.jp/image/new.gif)
+(更新日：2021年10月26日)  
+
+# 日本物理学会2021年秋季大会にて、5名の方が学生優秀発表賞を受賞されました（詳しくは、<a href="gakusei_presen.html">こちら</a>）。
+
+* Adulsiriswad Panith 氏 (Grad. Sch. of Energy Sci.，Kyoto Univ.)  
+* 太田　雅人（阪大レーザー研）
+* 川﨑　昂輝 氏 （阪大レーザー研）  
+* 國嶋　友貴 氏 （東北大院工）  
+* 茶谷　智樹 氏 （京大院工）  
+
+
+**おめでとうございました。**
+
 ## 第16回日本物理学会若手奨励賞　受賞者のお知らせ ![](http://www.r2.div.jps.or.jp/image/new.gif)
 (更新日：2021年10月20日)  
 
