@@ -1,7 +1,7 @@
 ## 領域2運営会議
 
 - 2022年年次大会（オンライン) 領域2運営会議　 （2022.03.19）  
-　 　資料 1 （稲垣先生）（[PDF]） 　議事録 （[PDF](pdf2/2022/20220319_uneikaigi_gijiroku.pdf)）
+　 　資料 1 （稲垣先生）（[PDF])(pdf2/2022/20220319_uneikaigi_shiryou.pdf)) 　議事録 （[PDF](pdf2/2022/20220319_uneikaigi_gijiroku.pdf)）
 - 2021年秋季大会（オンライン) 領域2運営会議　 （2021.09.22）  
 　 　資料 1 （稲垣先生）（[PDF](pdf2/2021/20210922_uneikaigi_shiryou.pdf)） 　議事録 （[PDF](pdf2/2021/20210922_uneikaigi_gijiroku.pdf)）
 - 2021年年次大会（オンライン) 領域2運営会議　 （2021.03.13）  
