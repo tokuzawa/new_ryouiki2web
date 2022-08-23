@@ -53,16 +53,16 @@
 （更新日：2022年8月23日）  
 （敬称略，あいうえお順）  
 
-- 梅﨑 大介 氏（九大院工）
- 「[ダイバータプラズマにおける大角度散乱を利用した粒子輸送制御](pdf2/2022/202203summary_Umezaki.pdf)」　
-- J.J. Simons 氏（SOKENDAI）
- 「[Evaluation of saturated absorption condition of hydrogen Balmer- alpha line due to laser pumping](pdf2/2022/202203summary_Simons.pdf)」　
-- 杉本 馨 氏（阪大理）
+- 梅﨑 大介 氏（九大院工）  
+ 「[ダイバータプラズマにおける大角度散乱を利用した粒子輸送制御](pdf2/2022/202203summary_Umezaki.pdf)」  
+- J.J. Simons 氏（SOKENDAI）  
+ 「[Evaluation of saturated absorption condition of hydrogen Balmer- alpha line due to laser pumping](pdf2/2022/202203summary_Simons.pdf)」  
+- 杉本 馨 氏（阪大理）  
  「[相対論的レーザープラズマ相互作用における線形 Breit-Wheeler 過程による電子・陽電子対生成](pdf2/2022/202203summary_Sugimoto.pdf)」　
-- 瀧澤 龍之介 氏（阪大レーザー研）
- 「[超高コントラストレーザーによる核融合プラズマの加熱](pdf2/2022/202203summary_Takizawa.pdf)」
-- 皆川 裕貴 氏（日大生産工）
- 「[光渦レーザー吸収分光法における方位角ドップラーシフトの絶対値評価](pdf2/2022/202203summary_Minagawa.pdf)」
+- 瀧澤 龍之介 氏（阪大レーザー研）  
+ 「[超高コントラストレーザーによる核融合プラズマの加熱](pdf2/2022/202203summary_Takizawa.pdf)」  
+- 皆川 裕貴 氏（日大生産工）  
+ 「[光渦レーザー吸収分光法における方位角ドップラーシフトの絶対値評価](pdf2/2022/202203summary_Minagawa.pdf)」  
 
 
 # 【選考総評】 
