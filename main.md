@@ -1,7 +1,7 @@
 ## 学生優秀発表賞　受賞者のお知らせ ![](http://www.r2.div.jps.or.jp/image/new.gif)
 (更新日：2022年8月23日)  
 
-# 日本物理学会2021年秋季大会にて、5名の方が学生優秀発表賞を受賞されました（詳しくは、<a href="gakusei_presen.html">こちら</a>）。
+# 日本物理学会2022年春季大会にて、5名の方が学生優秀発表賞を受賞されました（詳しくは、<a href="gakusei_presen.html">こちら</a>）。
 
 * 梅﨑 大介 氏（九大院工）
 * J.J. Simons 氏（SOKENDAI）
