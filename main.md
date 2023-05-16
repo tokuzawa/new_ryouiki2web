@@ -1,4 +1,4 @@
-## test学生優秀発表賞　受賞者のお知らせ ![](http://www.r2.div.jps.or.jp/image/new.gif)
+## 学生優秀発表賞　受賞者のお知らせ ![](http://www.r2.div.jps.or.jp/image/new.gif)
 (更新日：2022年11月23日)  
 
 # 日本物理学会2022年秋季大会にて、5名の方が学生優秀発表賞を受賞されました（詳しくは、<a href="gakusei_presen.html">こちら</a>）。
