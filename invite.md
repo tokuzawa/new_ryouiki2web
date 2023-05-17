@@ -3,9 +3,37 @@
 ### 2023年春季大会（オンライン） （2023年3月）
 
 - <font color="#0000cc">企画講演</font>  
-**科研費の種類と審査の仕組 (京都工芸繊維大学, 比村治彦)**
+**科研費の種類と審査の仕組 (京都工芸繊維大学 比村治彦)**
 
-### 2020年年次大会（名古屋大学） （2020年3月）
+### 2022年秋季大会（東工大)  （2022年9月）
+
+- <font color="#0000cc">企画講演</font>  
+**ELI-NP (ルーマニア）の10 PWレーザーが開く極限物理の世界 (ELI-NP 田中和夫)**
+
+### 2022年年次大会（オンライン)  （2022年3月）
+
+- <font color="#0000cc">招待講演</font>  
+**磁場閉じ込めプラズマの自己組織化構造に見られる水素同位体効果の物理機構 (核融合研 小林達哉)**
+
+### 2021年秋季大会（オンライン)  （2021年9月）
+
+- <font color="#0000cc">招待講演</font>  
+**レーザー散乱計測による産業利用プラズマ研究の新展開 (北海道大学 富田健太郎)**
+
+### 2021年年次大会（オンライン)  （2021年3月）
+
+- <font color="#0000cc">企画講演</font>  
+**Ultra-intense Laser-driven Ion Acceleration for High Energy Density Physics (ILE, Osaka university Morace Alessio)**
+- <font color="#0000cc">招待講演</font>  
+**大型ヘリカル装置における高エネルギーイオン励起不安定性による高エネルギーイオン輸送の研究（核融合研　小川国大）** 
+- <font color="#0000cc">招待講演</font>  
+**準軸対称ヘリカル磁場配位の物理（核融合研　清水昭博）** 
+
+### 2020年秋季次大会（オンライン）（2020年9月）
+
+**なし**
+
+### 2020年年次大会（名古屋大学　現地開催中止） （2020年3月）
 
 - <font color="#0000cc">招待講演</font>  
 **Laser-ion acceleration for Fast Ignition research and applications (ILE, Osaka university Morace Alessio)**
