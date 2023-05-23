@@ -2,8 +2,9 @@
 
 [[Japanese](keyword.html) | English]
 
-|       |**The first group of key words (session)** |
-| ---- | ----------------------------------------- |
+|       |       |
+| --- | ----------------------------------------- |
+|      |**The first group of key words (session)** |
 | (1) | basic plasma physics |
 | (2) | plasma science (including plasma applications) |
 | (3) | fusion plasmas |
