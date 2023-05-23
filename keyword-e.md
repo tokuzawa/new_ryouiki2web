@@ -2,7 +2,7 @@
 
 [[Japanese](keyword.html) | English]
 
-|       |The first group of key words (session) |
+|       |**The first group of key words (session)** |
 | ---- | ----------------------------------------- |
 | (1) | basic plasma physics |
 | (2) | plasma science (including plasma applications) |
@@ -20,7 +20,7 @@
 | (19) | magnetic reconnection, particle acceleration, dynamo effects |
 | (20) | numerical analyses, simulation |
 | (21) | new trends in plasma physics |
-| (22) | Non-Equilibrium and Extreme State Plasma |
+| (22) | non-equilibrium and extreme state plasma |
 | (23) | others |
 |       | **The third group of key words (research area)** |
 | (31) | space plasmas, astronomical plasmas |
