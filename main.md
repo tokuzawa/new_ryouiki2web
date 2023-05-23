@@ -9,7 +9,7 @@
 
 
 領域２の締め切りは2023年7月19日（水）です。
-（詳しくは、<a href="RonbunWakate.html">こちら</a>）。
+（詳しくは、<a href="RonbunWakate.html">**こちら**</a>）。
 
 
 ## 学生優秀発表賞　受賞者のお知らせ
