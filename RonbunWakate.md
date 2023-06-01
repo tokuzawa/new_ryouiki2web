@@ -14,7 +14,7 @@
 
 以上の必要書類を電子媒体にて、件名「領域2若手奨励賞」として、
 
-送付先：nagasaki.kazunobu.4x@kyoto-u.ac.jp
+送付先：nagasaki.kazunobu.4x◎kyoto-u.ac.jp （◎を@に変えて送信してください。）
 
 にお送り下さい。
 
