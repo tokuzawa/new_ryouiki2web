@@ -1,3 +1,17 @@
+## 学生優秀発表賞　受賞者のお知らせ![](http://www.r2.div.jps.or.jp/image/new.gif)
+(更新日：2023年6月1日)  
+
+# 日本物理学会2023年春季大会にて、5名の方が学生優秀発表賞を受賞されました（詳しくは、<a href="gakusei_presen.html">こちら</a>）。
+
+* 吉野 舜太郎 氏（東北大院情報）
+* Zechen Lan 氏（阪大レーザー研）
+* 韋 添允 氏（阪大レーザー研）
+* 矢ヶ崎 誇楠 氏（名大院工）
+* Joseph John Simons 氏（SOKENDAI) 
+
+
+**おめでとうございました。**
+
 ## 企画セッションの提案募集![](http://www.r2.div.jps.or.jp/image/new.gif)
 (更新日：2023年6月1日) 
 
