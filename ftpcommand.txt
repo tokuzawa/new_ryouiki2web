@@ -1,0 +1,21 @@
+open ftp.r2.div.jps.or.jp
+r2admin@r2.div.jps.or.jp
+u6EKyWHG
+cd www.r2.div.jps.or.jp
+put boardmeeting.html
+put collaboration.html
+put daihyo_yakuin.html
+put gakusei_presen.html
+put index.html
+put invite.html
+put keyword-e.html
+put keyword.html
+put links.html
+put mailinglist.html
+put meetinginfo.html
+put r2meeting.html
+put Ronbun.html
+put RonbunWakate.html
+put symposium.html
+put topical_session.html
+quit
