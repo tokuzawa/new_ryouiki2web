@@ -47,6 +47,29 @@
 
 ## 領域2　これまでの受賞者
 
+### 第18回日本物理学会若手奨励賞受賞者
+
+# 小川 国大 氏（核融合科学研究所）
+# 研究課題「ヘリカルプラズマにおける高エネルギー粒子閉じ込め物理研究」
+受賞対象論文：   
+K. Ogawa, M. Isobe, T. Nishitani, S. Murakami, R. Seki, H. Nuga, S. Kamio, Y. Fujiwara, H. Yamaguchi, Y. Saito, S. Maeta, M. Osakabe, and LHD Experiment Group, "Energetic ion confinement studies using comprehensive neutron diagnostics in the Large Helical Device", Nuclear Fusion 59 (2019) 076017.
+
+K. Ogawa, M. Isobe, H. Nuga, S. Kamio, Y. Fujiwara, M. I. Kobayashi, S. Sangaroon, E. Takada, R. Seki, H. Yamaguchi, J. Jo, and M. Osakabe, "A study of beam ion and deuterium-deuterium fusion born triton transports due to energetic particle driven magnetohydrodynamic instability in the Large Helical Device deuterium plasmas", Nuclear Fusion 61 (2021) 096035.
+
+R. M. Magee, K. Ogawa, T. Tajima, I. Allfrey, H. Gota, P. McCarroll,S. Ohdachi, M. Isobe, S. Kamio, V. Klumper, H. Nuga, M. Shoji, S. Ziaei, M. W. Binderbauer, and M. Osakabe, "First measurements of p11B fusion in a magnetically confined plasma", Nature Communications 14 (2023) 955.
+
+
+# 太田 雅人 氏（核融合科学研究所）
+# 研究課題「電気光学検出を用いた相対論的クーロン電場の研究」
+受賞対象論文：   
+M. Ota, K. Kan, S. Komada, Y. Wang, V. C. Agulto1, V. Katrine Mag-usara, Y. Arikawa, M. R. Asakawa, Y. Sakawa, T. Matsui, and M. Nakajima, Ultrafast visualization of an electric field under the Lorentz transformation, Nature Physics 18, 1436-1440 (2022).
+
+M. Ota, K. Kan, S. Komada, Y. Arikawa, T. Shimizu, V. K. Mag-usara, Y.Sakawa, T. Matsui, and M. Nakajima, Longitudinal and transverse spatial beam profile measurement of relativistic electron bunch by electro-optic sampling, Appl. Phys. Express 14, 026503 (2021).
+
+Y. Arikawa, M. Ota, M. Nakajima, T. Shimizu, S. Segawa, T. N. K. Phan, Y. Sakawa, Y. Abe, A. Morace, S. R. Mirfayzi, A. Yogo, S. Fujioka, M. Nakai, H. Shiraga, H. Azechi, R. Kodama, K. Kan, J. Frenje, M. G. Johnson, A. Bose, N. V. Kabadi, G. D. Sutcliffe, P. Adrian, C. Li, F. H. Séguin, and R. Petrasso, The conceptual design of 1-ps time resolution neutron detector for fusion reaction history measurement at OMEGA and the National Ignition Facility, Review of Scientific Instruments 91, 063304 (2020).
+
+
+
 ### 第17回日本物理学会若手奨励賞受賞者
 
 # 釼持　尚輝 氏（核融合科学研究所）

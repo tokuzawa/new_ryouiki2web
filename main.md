@@ -1,4 +1,4 @@
-## 第18回日本物理学会若手奨励賞　受賞者のお知らせ[](http://www.r2.div.jps.or.jp/image/new.gif)
+## 第18回日本物理学会若手奨励賞　受賞者のお知らせ　[](http://www.r2.div.jps.or.jp/image/new.gif)
 (更新日：2023年10月24日)  
 
 ２名の方が第18回日本物理学会若手奨励賞を受賞されました（ [物理学会Webページ](https://www.jps.or.jp/activities/awards/jusyosya/wakate2024.php) ）。
