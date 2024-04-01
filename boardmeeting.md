@@ -1,5 +1,6 @@
 ## 役員会情報
 
+-  第31回領域2役員会@オンライン（2024.3.18）　議事録 [PDF](pdf2/2024/20240318_yakuinkai_gijiroku.pdf) 資料 [PDF](pdf2/2024/20240318_yakuinkai_shiryou.pdf)
 -  第30回領域2役員会@東北大（2023.9.16）　議事録 [PDF](pdf2/2023/20230916_yakuinkai_gijiroku.pdf) 資料 [PDF](pdf2/2023/20230916_yakuinkai_shiryou.pdf)
 -  第29回領域2役員会@オンライン（2023.3.22）　議事録 [PDF](pdf2/2023/20230322_yakuinkai_gijiroku.pdf) 資料 [PDF](pdf2/2023/20230322_yakuinkai_shiryou.pdf)
 -  第28回領域2役員会@オンライン（2022.9.10）　議事録 [PDF](pdf2/2022/20220910_yakuinkai_gijiroku.pdf) 資料 [PDF](pdf2/2022/20220910_yakuinkai_shiryou.pdf)
