@@ -1,11 +1,9 @@
 ## 日本物理学会若手奨励賞
 
-
-日本物理学会　領域２の皆様
-
-第19回（2025年）日本物理学会若手奨励賞の募集が始まっています（日本物理学会誌6月号に案内が出ます）。
 本物理学会若手奨励賞は、優秀な若手研究者の研究を奨励する目的で、2006年より始まったものです。
 現在、領域２で２名の枠があります。（受賞人数枠は学会の領域ごとの総講演数実績（直近の3年で算出）に応じて毎年修正があります。）
+
+###　第19回（2025年）日本物理学会若手奨励賞の募集が始まっています（日本物理学会誌6月号に案内が出ます）。
 
 # 提出書類
 
@@ -46,6 +44,19 @@
 <br>
 
 ## 領域2　これまでの受賞者
+
+### 第19回日本物理学会若手奨励賞受賞者
+
+# 武村勇輝 氏（核融合科学研究所）
+# 研究課題「磁場閉じ込め核融合プラズマにおける磁気島を伴うMHD不安定性制御に向けた研究」
+受賞対象論文：   
+Y. Takemura, K.Y. Watanabe, S. Sakakibara, S. Ohdachi, Y. Narushima, K. Ida , M. Yoshinuma and LHD Experiment Group, " External RMP effect on locked-mode-like instability in helical plasmas ", Nucler Fusion 61, 026001 (2021).
+
+Y. Takemura, K. Watanabe, S. Sakakibara, S. Ohdachi, Y. Narushima,K. Tanaka, and T. Tokuzawa, " Onset of instability with collapse observed in relatively high density and medium beta regions of LHD ", Phys. Plasmas 29, 092505 (2022). 
+
+S. Ito, K. Watanabe, Y. Takemura, S. Sakakibara, and S. Masamune, “Suppression of “Edge MHD Instability of LHD” by External RMP”, Plasma and Fusion Research 19, 1402001 (2024).
+
+
 
 ### 第18回日本物理学会若手奨励賞受賞者
 

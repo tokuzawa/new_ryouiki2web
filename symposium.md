@@ -1,5 +1,21 @@
 ### 領域２シンポジウム情報
 
+## 2024年年次大会（北海道大学） （2024年9月）
+
+-  高強度レーザーが切り拓く物理学
+
+-  我が国の加速器施設の現状とビーム力学の往古来今
+
+-  多価イオン物理研究の学際的展望　Interdisciplinary Perspectives on Highly Charged Ion Physics Research
+
+-  負イオンが切り開く科学の最前線
+
+-  先端計測のフロンティア〜見えないモノを見る挑戦
+
+-  小規模パルスマグネットを利用した実験物理の発展と広がり
+
+-  乱流科学の最前線：多彩な乱流の統一的理解に向けて
+
 ## 2024年春季大会（オンライン） （2024年3月）
 
 -  X線自由電子レーザー（XFEL）を活用した高エネルギー密度科学の新展開　New Developments in High-Energy Density Science Using X-ray Free Electron Laser (XFEL)
