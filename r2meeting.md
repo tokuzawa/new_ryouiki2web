@@ -1,7 +1,9 @@
 ## 領域2運営会議
 
+- 2025年春季大会（オンライン) 領域2運営会議　 （2025.03.19）  
+　 　資料 1 （長﨑先生）（[PDF](pdf2/2025/20250319_uneikaigi_shiryou.pdf)) 　議事録 （[PDF](pdf2/2025/20250319_uneikaigi_gijiroku.pdf)）
 - 2024年年次大会（北海道大学) 領域2運営会議　 （2024.09.17）  
-　 　資料 1 （藤堂先生）（[PDF](pdf2/2024/20240917_uneikaigi_shiryou.pdf)) 　議事録 （[PDF](pdf2/2024/20240917_uneikaigi_gijiroku.pdf)）
+　 　資料 1 （長﨑先生）（[PDF](pdf2/2024/20240917_uneikaigi_shiryou.pdf)) 　議事録 （[PDF](pdf2/2024/20240917_uneikaigi_gijiroku.pdf)）
 - 2024年春季大会（オンライン) 領域2運営会議　 （2024.03.19）  
 　 　資料 1 （藤堂先生）（[PDF](pdf2/2024/20240319_uneikaigi_shiryou.pdf)) 　議事録 （[PDF](pdf2/2024/20240319_uneikaigi_gijiroku.pdf)）
 - 2023年年次大会（東北大) 領域2運営会議　 （2023.09.17）  
