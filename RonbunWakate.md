@@ -47,6 +47,59 @@
 # 比村治彦（領域２代表）、江尻晶（領域２副代表）
 <br>
 
+## Young Scientist Award of the Physical Society of Japan
+
+The JPS Young Scientist Award was started in 2006 to encourage outstanding research by young scientists who will lead physics in the future.
+
+Currently, there are two slots available in Division 2. (The quota for the number of recipients is subject to annual revision according to the actual total number of presentations per division of the physical society (calculated over the most recent three years)).
+
+
+[About the JPS Young Scientist Award]（https://www.jps.or.jp/activities/awards/wakate_about.php） (Japanese only)
+
+
+### Call for applications for the 20th (2026) JPS Young Scientist Award has begun (information will appear in the June issue of the JPSJ Journal)。
+
+# Required Documents
+
+①Application form (Form 1), ②Curriculum vitae, ③List of publications, ④Copies of eligible papers (not more than 3), ⑤Copies of abstracts and presentation materials at the relevant JPS meeting, ⑥Other documents deemed necessary
+
+For details, please see the detailed regulations below. The application form can be downloaded from the following link.
+
+Please send the above required documents in electronic media 
+
+to ejiri◎k.u-tokyo.ac.jp (Please change ◎ to @.)
+
+with the subject line “Division 2 Young Scientist Award”.
+
+
+# Deadline for Division 2 is Monday, July 21, 2025
+
+The Division 2 rules and bylaws for this award can be found at the [link](pdf2/2024/kitei_wakatesyo2024.pdf) (in Japanese). The outline is as follows.
+
+
+>（１）Applicant must have a published research achievement, and the research (or any part of it) must have been presented as a speaker at a JPS meeting.   
+>（２）Applicant must be a member of the Physical Society of Japan, and must be 39 years old or younger as of April 1, 2025 for the 20th competition. However, the age limit may be relaxed in case of circumstances such as interruption of research due to childbirth or parental leave. 
+>（３）Self-Nomination. Provide two references whose opinions on the subject research can be sought.
+>（４）Documents to be submitted are: ①Application form (Form 1), ②Curriculum vitae, ③List of publications, ④Copies of eligible papers (not more than 3), ⑤Copies of abstracts and presentation materials at the relevant JPS meetings, and ⑥Other documents deemed necessary. For details, please see the detailed regulations. The application form can be downloaded from the following link.
+>   
+> [__Form 1__](http://www.r2.div.jps.or.jp/pdf2/2025/youshiki1_EN.docx)   
+
+
+The review will be conducted from the following perspectives.
+1）Status of publications and presentations at JPS meetings and other international conferences.
+2）Originality, future potential, and impact of the research on the field,
+3）The contribution of the individual to the research
+4）Spillover effects and disseminate information to other fields,
+5）Contribution to the field.
+
+The recipient of the Young Scientist Award will give a commemorative lecture at the 2026 Spring Meeting (March 2026, online). Please refer to the [webpage](https://www.jps.or.jp/english/docs/Guidelines_theYoungScientistAward.pdf) of the Physical Society of Japan for the past winners and the schedule from the call for applications to the Commemorative Lecture.
+
+We look forward to receiving many applications.
+
+# Haruhiko Himura (Representative of Division 2), Akira Ejiri (Vice Representative of Division 2)
+<br>
+
+
 ## 領域2　これまでの受賞者
 
 ### 第19回日本物理学会若手奨励賞受賞者
