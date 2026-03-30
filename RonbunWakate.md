@@ -106,6 +106,29 @@ We look forward to receiving many applications.
 
 ## 領域2　これまでの受賞者
 
+### 第20回日本物理学会若手奨励賞受賞者
+
+# 高橋宏幸 氏（東北大学）
+# 研究課題「無電極高周波プラズマによる非接触プラズマ研究の開拓」
+受賞対象論文：   
+H. Takahashi, A. Okamoto, P. Boonyarittipong, T. Saikyo, K. Ogasawara, T. Seino, K. Tobita, and S. Kitajima, "Influence of the formation of a bi-Maxwellian distribution on volumetric recombining plasma spectroscopy", Physics of Plasmas 26, 033506 (2019).
+
+H. Takahashi, M. N. Winarto, A. Okamoto, P. Boonyarittipong, T. Seino, K. Kusabiraki, Y. Sakata, K. Yoshimura, R. Nishimura, S. Kitajima, A. Matsuyama, and K. Tobita, "On electron temperature rise in divertor relevant recombining plasma along magnetic field line", Physics of Plasmas 29, 032508 (2022).
+
+H. Takahashi, T. Seino, R. Nishimura, K. Yoshimura, A. Kanno, T. Hara, Y. Takahashi, S. Kagaya, A. Matsuyama, Y. Hayashi, and K. Tobita, "Impact of selective ion transmission on measurement by retarding field analyzer", Physics of Plasmas 30, 053506 (2023).
+
+
+# 田中宏彦 氏（名古屋大学）
+# 研究課題「非接触ダイバータ条件で増幅する磁場を横切る対流輸送研究」
+受賞対象論文：   
+H. Tanaka, S. Kajita, H. Natsume, N. Ohno, "Four-dimensional conditional averaging tomography of rotating plasma ejection from cylindrical detached plasma", Scientific Reports 14, 9329 (2024).
+
+H. Tanaka, N. Ezumi, T. Sugiyama, H. Gamo, N. Shigematsu, M. Yoshikawa, J. Kohagura, M. Hirata, S. Togo, N. Ohno, M. Sakamoto, "Study of the intermittent plasma structure around the divertor simulation experimental module in GAMMA 10/PDX", Physics of Plasmas 30, 032501 (2023).
+
+H. Tanaka, Y. Hayashi, S. Kajita, H.J. van der Meiden, M. Yoshikawa, J.W.M. Vernimmen, J. Scholten, I. Classen, T.W. Morgan, and N. Ohno, "Cross-field transport in detached helium plasmas in Magnum-PSI", Plasma Phys. Control. Fusion 62, 115021 (2020).
+
+
+
 ### 第19回日本物理学会若手奨励賞受賞者
 
 # 武村勇輝 氏（核融合科学研究所）
