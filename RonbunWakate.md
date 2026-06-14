@@ -7,7 +7,7 @@
 [日本物理学会若手奨励賞について](https://www.jps.or.jp/activities/awards/wakate_about.php)
   　　
   
-### 第20回（2026年）日本物理学会若手奨励賞の募集が始まっています（日本物理学会誌6月号に案内が出ます）。
+### 第21回（2027年）日本物理学会若手奨励賞の募集が始まっています（日本物理学会誌6月号に案内が出ます）。
 
 # 提出書類
 
@@ -16,16 +16,16 @@
 
 以上の必要書類を電子媒体にて、件名「領域2若手奨励賞」として、
 
-送付先：ejiri◎k.u-tokyo.ac.jp （◎を@に変えて送信してください。）
+送付先：fujioka.shinsuke.ile◎osaka-u.ac.jp （◎を@に変えて送信してください。）
 
 にお送り下さい。
 
-# 領域２の締め切りは2025年7月21日（月）です。
+# 領域２の締め切りは2026年7月21日（火）です。
 
 この賞に関する領域２の規定及び細則は、[リンク先](pdf2/2024/kitei_wakatesyo2024.pdf)に掲載されています。概要は以下の通りです。
 
 >（１）公表された研究業績で、その研究内容（一部でも可）が物理学会において登壇者として発表されていること。   
->（２）応募資格は物理学会会員であり、第20回分では2025年4月1日において、39歳以下であること。ただし、出産、育児休暇により研究を中断するなどの事情がある場合は、年齢制限を緩和することができる。   
+>（２）応募資格は物理学会会員であり、第21回分では2026年4月1日において、39歳以下であること。ただし、出産、育児休暇により研究を中断するなどの事情がある場合は、年齢制限を緩和することができる。   
 >（３）自薦で行う。対象研究に対して意見を伺える照会者2名を記入する。   
 >（４）提出書類は①申請書(様式１)、②履歴書、③発表論文リスト、④対象論文のコピー(3篇以内)、⑤該当する日本物理学会における学会発表の講演概要と講演資料のコピー、⑥その他必要と思われる書類です。詳細は上記細則を見て下さい。申請書の様式は、以下からダウンロードしてください。   
 >   
@@ -39,12 +39,12 @@
 4）他分野への波及効果や情報発信、   
 5）分野への貢献
 
-受賞者は2026年春季大会（2026年3月、オンライン開催）にて若手奨励賞受賞記念講演を行っていただきます。これまでの受賞者及び募集から受賞記念講演までのスケジュールについては[物理学会Webページ](https://www.jps.or.jp/activities/awards/wakate.php)をご参照ください。
+受賞者は2027年春季大会（2027年3月、オンライン開催）にて若手奨励賞受賞記念講演を行っていただきます。これまでの受賞者及び募集から受賞記念講演までのスケジュールについては[物理学会Webページ](https://www.jps.or.jp/activities/awards/wakate.php)をご参照ください。
 
 
 多数の応募をお願い申し上げます。
 
-# 比村治彦（領域２代表）、江尻晶（領域２副代表）
+# 江尻晶（領域２代表）、藤岡慎介（領域２副代表）
 <br>
 
 ## Young Scientist Award of the Physical Society of Japan
@@ -58,7 +58,7 @@ Currently, there are two slots available in Division 2. (The quota for the numbe
 The JPS guideline: [link](https://www.jps.or.jp/english/docs/Guidelines_theYoungScientistAward.pdf) (English)
 
 
-### Call for applications for the 20th (2026) JPS Young Scientist Award has begun (information will appear in the June issue of the JPSJ Journal)
+### Call for applications for the 21st (2027) JPS Young Scientist Award has begun (information will appear in the June issue of the JPSJ Journal)
 
 # Required Documents
 
@@ -68,19 +68,19 @@ For details, please see the detailed regulations below. The application form can
 
 Please send the above required documents in electronic media 
 
- to ejiri◎k.u-tokyo.ac.jp (Please change ◎ to @)  
+ to fujioka.shinsuke.ile◎osaka-u.ac.jp (Please change ◎ to @)  
  
  with the subject line “Division 2 Young Scientist Award”.
 
 
-# Deadline for Division 2 is Monday, July 21, 2025
+# Deadline for Division 2 is Tuesday, July 21, 2026
 
 The Division 2 rules and bylaws for this award can be found at the [link](pdf2/2024/kitei_wakatesyo2024.pdf) (in Japanese).
 
 The outline is as follows.
 
 >(1) Applicant must have a published research achievement, and the research (or any part of it) must have been presented as a speaker at a JPS meeting.   
->(2) Applicant must be a member of the Physical Society of Japan, and must be 39 years old or younger as of April 1, 2025 for the 20th competition. However, the age limit may be relaxed in case of circumstances such as interruption of research due to childbirth or parental leave.    
+>(2) Applicant must be a member of the Physical Society of Japan, and must be 39 years old or younger as of April 1, 2026 for the 20th competition. However, the age limit may be relaxed in case of circumstances such as interruption of research due to childbirth or parental leave.    
 >(3) Self-Nomination. Provide two references whose opinions on the subject research can be sought.   
 >(4) Documents to be submitted are: ①Application form (Form 1), ②Curriculum vitae, ③List of publications, ④Copies of eligible papers (not more than 3), ⑤Copies of abstracts and presentation materials at the relevant JPS meetings, and ⑥Other documents deemed necessary. For details, please see the detailed regulations. The application form can be downloaded from the following link.
 >   
@@ -99,8 +99,8 @@ The recipient of the Young Scientist Award will give a commemorative lecture at 
 
 We look forward to receiving many applications.
 
-# Haruhiko Himura (Representative of Division 2), 
-# Akira Ejiri (Vice Representative of Division 2)
+# Akira Ejiri (Representative of Division 2), 
+# Shinsuke Fujioka (Vice Representative of Division 2)
 <br>
 
 
